@@ -1,0 +1,38 @@
+[33mcommit b1c30dcb5b05e959f467345205e863b6b19753dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 24a1313 84545f9
+Author: okalu <okalu1@outlook.com>
+Date:   Sat Jul 25 13:38:55 2020 -0500
+
+    Resolved conflict between remote version and local changes
+
+[33mcommit 84545f952123acf2bb469b868f98e24984d58819[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: okalu-cs425-swe-202003 <61477107+okalu-cs425-swe-202003@users.noreply.github.com>
+Date:   Sat Jul 25 12:15:10 2020 -0500
+
+    added new stuff
+
+[33mcommit 24a13137a2b30080bc03f464cbe59da1d8460357[m
+Author: okalu <okalu1@outlook.com>
+Date:   Sat Jul 25 12:06:35 2020 -0500
+
+    Kind stranger dev added new line into readme.txt
+
+[33mcommit c7a73dd146dbbc8d232b121e74aa57dc928e0246[m
+Author: okalu <okalu1@outlook.com>
+Date:   Sat Jul 25 11:50:08 2020 -0500
+
+    Removed readme2.txt
+
+[33mcommit 8b46e610211eaad79cf120617ad88189db9532ad[m
+Author: okalu <64035518+okalu@users.noreply.github.com>
+Date:   Sat Jul 25 11:42:33 2020 -0500
+
+    added new readme2
+    
+    added hfhfggfg fgfgfgf new readme2
+
+[33mcommit 77f4523becc23458c56d8c324f4ed0aeb73b814b[m
+Author: okalu <okalu1@outlook.com>
+Date:   Sat Jul 25 11:26:34 2020 -0500
+
+    First initial commit - added readme and technical-documentation
